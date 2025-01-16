@@ -1,0 +1,146 @@
+[
+  {
+    "id": 0,
+    "title": "Harry Potter and the Sorcerer\u2019s Stone",
+    "author": "J.K. Rowling",
+    "rating": 4.47
+  },
+  {
+    "id": 1,
+    "title": "The Lightning Thief",
+    "author": "Rick Riordan",
+    "rating": 4.31
+  },
+  {
+    "id": 2,
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "rating": 4.33
+  },
+  {
+    "id": 3,
+    "title": "Twilight",
+    "author": "Stephenie Meyer",
+    "rating": 3.65
+  },
+  {
+    "id": 4,
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "rating": 4.12
+  },
+  {
+    "id": 5,
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "rating": 4.14
+  },
+  {
+    "id": 6,
+    "title": "City of Bones",
+    "author": "Cassandra Clare",
+    "rating": 4.07
+  },
+  {
+    "id": 8,
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "rating": 4.39
+  },
+  {
+    "id": 9,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "rating": 4.26
+  },
+  {
+    "id": 10,
+    "title": null,
+    "author": "Stephen Chbosky",
+    "rating": 4.23
+  },
+  {
+    "id": 11,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "rating": 4.29
+  },
+  {
+    "id": 12,
+    "title": "Holes",
+    "author": "Louis Sachar",
+    "rating": null
+  },
+  {
+    "id": 13,
+    "title": "The Outsiders",
+    "author": "S.E. Hinton",
+    "rating": 4.12
+  },
+  {
+    "id": 14,
+    "title": "The Golden Compass",
+    "author": "Philip Pullman",
+    "rating": 4.02
+  },
+  {
+    "id": 15,
+    "title": "The Host",
+    "author": null,
+    "rating": 3.86
+  },
+  {
+    "id": 16,
+    "title": "Looking for Alaska",
+    "author": null,
+    "rating": 3.97
+  },
+  {
+    "id": 17,
+    "title": "Vampire Academy",
+    "author": "Richelle Mead",
+    "rating": 4.11
+  },
+  {
+    "id": 18,
+    "title": "Eragon",
+    "author": "Christopher Paolini",
+    "rating": 3.95
+  },
+  {
+    "id": 19,
+    "title": "A Wrinkle in Time",
+    "author": "Madeleine L'Engle",
+    "rating": 3.98
+  },
+  {
+    "id": 20,
+    "title": "Uglies",
+    "author": "Scott Westerfeld",
+    "rating": 3.85
+  },
+  {
+    "id": 21,
+    "title": "Clockwork Angel",
+    "author": "Cassandra Clare",
+    "rating": 4.31
+  },
+  {
+    "id": 22,
+    "title": "Ella Enchanted",
+    "author": "Gail Carson Levine",
+    "rating": 4.01
+  },
+  {
+    "id": 23,
+    "title": "Bridge to Terabithia",
+    "author": "Katherine Paterson",
+    "rating": 4.04
+  },
+  {
+    "id": 24,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "rating": 4.29
+  }
+]

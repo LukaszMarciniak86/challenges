@@ -9,7 +9,13 @@
   "scripts": {
     "start": "concurrently 'npm:start:frontend' 'npm:start:server'",
     "start:frontend": "npm start -w frontend",
-    "start:server": "npm start -w server"
+    "start:server": "npm start -w server",
+
+    "test:chrome": "cypress run --spec 'cypress/e2e/failingTests/**/*.cy.js' --browser chrome",
+    "test:firefox": "cypress run --spec 'cypress/e2e/failingTests/**/*.cy.js' --browser firefox",
+    "test:edge": "cypress run --spec 'cypress/e2e/failingTests/**/*.cy.js' --browser edge",
+    "test:mobile": "cypress run --spec 'cypress/e2e/mobileTests/**/*.cy.js'",
+    "test:open": "npx cypress open"
   },
   "author": "",
   "license": "ISC",
@@ -18,5 +24,9 @@
   ],
   "dependencies": {
     "concurrently": "^8.2.2"
+  },
+  "devDependencies": {
+    "cypress": "^13.17.0",
+    "start-server-and-test": "^2.0.10"
   }
 }
